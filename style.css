@@ -1,5 +1,14 @@
-div {background-color: rgb(211, 162, 82);
-width: 640px}
-h2 {font-family: 'Anton', sans-serif;}
-P {font-family: 'Noto Sans JP', sans-serif;
-text-transform: uppercase;}
+body {background-color: rgb(141, 107, 56)}
+div {
+  background-color: rgb(211, 162, 82);
+  width: 640px;
+  margin: px;
+}
+h2 {
+  font-family: "Anton", sans-serif;
+}
+p {
+  font-family: "Noto Sans JP", sans-serif;
+  text-transform: uppercase;
+  margin: 20px;
+}
