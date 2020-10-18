@@ -1,14 +1,19 @@
-body {background-color: rgb(141, 107, 56)}
+body {
+    background-color: rgb(141, 107, 56)
+}
+
 div {
-  background-color: rgb(211, 162, 82);
-  width: 640px;
-  margin-left: 500px;
+    background-color: rgb(211, 162, 82);
+    width: 640px;
+    margin-left: 500px;
 }
+
 h2 {
-  font-family: "Anton", sans-serif;
+    font-family: "Anton", sans-serif;
 }
+
 p {
-  font-family: "Noto Sans JP", sans-serif;
-  text-transform: uppercase;
-  margin: 20px;
+    font-family: "Noto Sans JP", sans-serif;
+    text-transform: uppercase;
+    margin: 20px;
 }
