@@ -4,18 +4,20 @@ body {
 
 div {
   background-color: rgb(211, 162, 82);
-  width: 640px;
+  width: 432px;
   margin-left: 500px;
 }
 
 h2 {
   font-family: "Anton", sans-serif;
-  margin: 20px;
+  margin-left: 50px;
 }
 
 p {
   font-family: "Noto Sans JP", sans-serif;
   text-transform: uppercase;
-  margin: 20px;
+  margin-left: 50px;
 }
-.class1 {margin: 100px;}
+.class2 {margin-left:300px;
+  padding-bottom: 
+}
