@@ -18,5 +18,7 @@ p {
   text-transform: uppercase;
   margin-left: 50px;
 }
-.class2 {margin-left:300px;
+.class2 {
+  float: right;
+  
 }
