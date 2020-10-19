@@ -18,7 +18,8 @@ p {
   text-transform: uppercase;
   margin-left: 50px;
 }
-.class2 { 
+.class2 {
   float: right;
 }
-
+a {font-family: "Noto Sans JP", sans-serif;
+ }
