@@ -22,4 +22,7 @@ p {
   float: right;
 }
 a {font-family: "Noto Sans JP", sans-serif;
- }
+  margin-left: 50px;
+  padding-top: 20px;
+  text-transform: uppercase;
+}
