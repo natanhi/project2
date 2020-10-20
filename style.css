@@ -21,17 +21,24 @@ p {
 
 .class2 {
   float: right;
+  margin-right: 20px;
 }
 
 a {
   font-family: "Noto Sans JP", sans-serif;
   text-transform: uppercase;
 }
-.boots,.buttons {text-decoration: none;}
+
+.boots,
+.buttons {
+  text-decoration: none;
+}
+
 .boots {
   margin-left: 50px;
   padding-top: 20px;
   display: inline-block;
+  color: black;
 }
 
 .buttons {
@@ -48,6 +55,9 @@ a {
   margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
+  padding-bottom: 20px;
 }
-.number {font-weight: bold;
+
+.number {
+  font-weight: bold;
 }
