@@ -2,7 +2,7 @@ body {
   background-color: rgb(141, 107, 56);
 }
 
-div {
+.classbody {
   background-color: rgb(211, 162, 82);
   width: 432px;
   margin-left: 500px;
@@ -18,11 +18,19 @@ p {
   text-transform: uppercase;
   margin-left: 50px;
 }
+
 .class2 {
   float: right;
 }
-a {font-family: "Noto Sans JP", sans-serif;
+
+a {
+  font-family: "Noto Sans JP", sans-serif;
   margin-left: 50px;
   padding-top: 20px;
   text-transform: uppercase;
+}
+
+.boots {
+  padding-bottom: 20px;
+display: inline-block;
 }
