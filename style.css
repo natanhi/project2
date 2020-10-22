@@ -19,7 +19,7 @@ p {
   margin-left: 50px;
 }
 
-.class2 {
+.small-logo {
   float: right;
   margin-right: 20px;
 }
@@ -29,12 +29,12 @@ a {
   text-transform: uppercase;
 }
 
-.boots,
+.hashtag,
 .buttons {
   text-decoration: none;
 }
 
-.boots {
+.hashtag {
   margin-left: 50px;
   padding-top: 20px;
   display: inline-block;
@@ -51,7 +51,8 @@ a {
   text-align: center;
 }
 
-.buttons:hover {
+.buttons:hover,
+:focus {
   background-color: rgb(0, 0, 0);
   color: rgb(141, 107, 56);
 }
