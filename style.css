@@ -42,12 +42,18 @@ a {
 }
 
 .buttons {
+  background-color: rgb(211, 162, 82);
   border: 1px solid white;
   display: inline-block;
   width: 43%;
   padding: 10px;
   color: white;
   text-align: center;
+}
+
+.buttons:hover {
+  background-color: rgb(0, 0, 0);
+  color: rgb(141, 107, 56);
 }
 
 .buttons-box {
