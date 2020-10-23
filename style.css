@@ -49,6 +49,7 @@ a {
   padding: 10px;
   color: white;
   text-align: center;
+  transition: all 300ms;
 }
 
 .buttons:hover,
